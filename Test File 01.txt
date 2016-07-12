@@ -1,1 +1,3 @@
 Just testing how the system works.
+Fixed Bug #1
+Fixed Bug #2
